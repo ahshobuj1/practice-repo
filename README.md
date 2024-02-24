@@ -1,2 +1,4 @@
 # practice-repo
-this repo for practice purpuse
+
+This repo for practice purpose
+i have changed here spelling mistake.
