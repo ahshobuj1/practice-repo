@@ -4,4 +4,5 @@ Educational background :
      Duration : 2021 - Present
 
      I have completed my HSC in 2021 from Nangolkot Hasan Memorial Degree College.
-     I have solved bug !
+I Have soled the issue
+
